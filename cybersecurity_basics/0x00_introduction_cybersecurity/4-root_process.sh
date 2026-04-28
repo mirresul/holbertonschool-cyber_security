@@ -1,2 +1,2 @@
 #!/bin/bash
-ps -u "$1" -f | grep -v "\[.*\]"
+ps aux | grep "^$1" | grep -v " 0  0 "
