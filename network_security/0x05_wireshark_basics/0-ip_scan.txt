@@ -1,0 +1,2 @@
+icmp.type == 3 && icmp.code == 2
+
